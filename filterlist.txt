@@ -1,0 +1,49 @@
+! Title: Don'tPushMe
+! Last Modified: 16:43 2019-04-18
+! Expires: 3 days
+! Description: A list aiming to block all forms of unprompted "would you like to enable our push notifications" requests.
+! Homepage: https://github.com/caffeinewriter/DontPushMe
+! Issues: https://github.com/caffeinewriter/DontPushMe/issues
+! License: Unlicense <https://github.com/caffeinewriter/DontPushMe/blob/master/LICENSE>
+! Only tested with uBlock Origin. Other apps may work as well.
+
+
+!// Hosted third party push providers
+
+||aimtell.com$third-party
+||airship.com$third-party
+||cleverpush.com$third-party
+||engagespot.co$third-party
+||feedify.net$third-party
+||firepush.net$third-party
+||foxpush.com$third-party
+||getpushmonkey.com$third-party
+||izooto.com$third-party
+||moengage.com$third-party
+||morengage.com$third-party
+||onesignal.com$third-party
+||os.tc$third-party
+||pushalert.co$third-party
+||pushassist.com$third-party
+||pushbird.com$third-party
+||pushcrew.com$third-party
+||pushengage.com$third-party
+||pushflew.com$third-party
+||pushnews.eu$third-party
+||pushnews.org$third-party
+||pushowl.com$third-party
+||pushpad.xyz$third-party
+||pushpushgo.com$third-party
+||pushwoosh.com$third-party
+||s3.amazonaws.com/cdn.aimtell.com$third-party
+||s3.amazonaws.com/shopifyspmprod$third-party
+||subscribers.com$third-party
+||truepush.com$third-party
+||urbanairship.com$third-party
+
+!// On-prem push services
+
+/indigitall.min.js
+/indigitall/sdk.min.js
+/plugins/pushvault-push-notifications
+/pushmaze.js
