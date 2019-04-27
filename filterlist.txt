@@ -37,6 +37,7 @@
 ||pushwoosh.com$third-party
 ||s3.amazonaws.com/cdn.aimtell.com$third-party
 ||s3.amazonaws.com/shopifyspmprod$third-party
+||sendpulse.com$third-party
 ||subscribers.com$third-party
 ||truepush.com$third-party
 ||urbanairship.com$third-party
