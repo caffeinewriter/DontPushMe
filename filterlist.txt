@@ -1,4 +1,4 @@
-! Title: Don'tPushMe
+! Title: Don't Push Me
 ! Last Modified: 16:43 2019-04-18
 ! Expires: 3 days
 ! Description: A list aiming to block all forms of unprompted "would you like to enable our push notifications" requests.
