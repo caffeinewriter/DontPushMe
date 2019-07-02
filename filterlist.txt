@@ -42,9 +42,15 @@
 ||truepush.com$third-party
 ||urbanairship.com$third-party
 
-!// Potentially malicious
+!// Probably malicious
 
-||popnewsfeed.com$third-party
+||click-on-this-now.online
+||notifications.website
+||notificationz.com
+||notify-service.com
+||popnewsfeed.com
+||pushsroutg.com
+||sunchannel.me
 
 !// On-prem push services
 
