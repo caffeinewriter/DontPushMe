@@ -42,6 +42,10 @@
 ||truepush.com$third-party
 ||urbanairship.com$third-party
 
+!// Potentially malicious
+
+||popnewsfeed.com$third-party
+
 !// On-prem push services
 
 /indigitall.min.js
