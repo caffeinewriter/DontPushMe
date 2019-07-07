@@ -57,4 +57,5 @@
 /indigitall.min.js
 /indigitall/sdk.min.js
 /plugins/pushvault-push-notifications
+/plugins/smio-push-notification
 /pushmaze.js
