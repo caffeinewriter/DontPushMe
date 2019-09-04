@@ -54,6 +54,7 @@
 
 !// On-prem push services
 
+/apns.js
 /indigitall.min.js
 /indigitall/sdk.min.js
 /plugins/pushvault-push-notifications
