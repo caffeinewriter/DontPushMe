@@ -12,6 +12,7 @@
 
 ||aimtell.com$third-party
 ||airship.com$third-party
+||aswpsdkus.com$third-party
 ||cleverpush.com$third-party
 ||engagespot.co$third-party
 ||feedify.net$third-party
@@ -57,6 +58,8 @@
 /apns.js
 /indigitall.min.js
 /indigitall/sdk.min.js
+/notify/v1/ua-sdk.js
+/notify/v1/ua-sdk.min.js
 /plugins/pushvault-push-notifications
 /plugins/smio-push-notification
 /pushmaze.js
