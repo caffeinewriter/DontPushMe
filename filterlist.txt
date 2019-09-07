@@ -1,5 +1,5 @@
 ! Title: Don't Push Me
-! Last Modified: 22:12 2019-05-06
+! Last Modified: 05:02 2019-09-07
 ! Expires: 3 days
 ! Description: A list aiming to block all forms of unprompted "would you like to enable our push notifications" requests.
 ! Homepage: https://github.com/caffeinewriter/DontPushMe
